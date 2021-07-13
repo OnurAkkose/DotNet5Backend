@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Hangfire.Core" Version="1.7.24" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Hangfire\Continuations\" />
+    <Folder Include="Hangfire\Delayed\" />
+    <Folder Include="Quartz\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\NetFiveBackend.Business\NetFiveBackend.Business.csproj" />
+  </ItemGroup>
+
+</Project>

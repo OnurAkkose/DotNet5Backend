@@ -1,0 +1,12 @@
+D:\Base\Codebase\Projects\dotnet\Own\CafeMenu\CAFEMENU.MessageBroker\obj\Debug\net5.0\CAFEMENU.MessageBroker.GeneratedMSBuildEditorConfig.editorconfig
+D:\Base\Codebase\Projects\dotnet\Own\CafeMenu\CAFEMENU.MessageBroker\obj\Debug\net5.0\CAFEMENU.MessageBroker.AssemblyInfoInputs.cache
+D:\Base\Codebase\Projects\dotnet\Own\CafeMenu\CAFEMENU.MessageBroker\obj\Debug\net5.0\CAFEMENU.MessageBroker.AssemblyInfo.cs
+D:\Base\Codebase\Projects\dotnet\Own\CafeMenu\CAFEMENU.MessageBroker\obj\Debug\net5.0\CAFEMENU.MessageBroker.csproj.CoreCompileInputs.cache
+D:\Base\Codebase\Projects\dotnet\Own\CafeMenu\CAFEMENU.MessageBroker\bin\Debug\net5.0\CAFEMENU.MessageBroker.deps.json
+D:\Base\Codebase\Projects\dotnet\Own\CafeMenu\CAFEMENU.MessageBroker\bin\Debug\net5.0\CAFEMENU.MessageBroker.dll
+D:\Base\Codebase\Projects\dotnet\Own\CafeMenu\CAFEMENU.MessageBroker\bin\Debug\net5.0\ref\CAFEMENU.MessageBroker.dll
+D:\Base\Codebase\Projects\dotnet\Own\CafeMenu\CAFEMENU.MessageBroker\bin\Debug\net5.0\CAFEMENU.MessageBroker.pdb
+D:\Base\Codebase\Projects\dotnet\Own\CafeMenu\CAFEMENU.MessageBroker\obj\Debug\net5.0\CAFEMENU.MessageBroker.dll
+D:\Base\Codebase\Projects\dotnet\Own\CafeMenu\CAFEMENU.MessageBroker\obj\Debug\net5.0\ref\CAFEMENU.MessageBroker.dll
+D:\Base\Codebase\Projects\dotnet\Own\CafeMenu\CAFEMENU.MessageBroker\obj\Debug\net5.0\CAFEMENU.MessageBroker.pdb
+D:\Base\Codebase\Projects\dotnet\Own\CAFEMENU\CAFEMENU.MessageBroker\obj\Debug\net5.0\CAFEMENU.MessageBroker.csprojAssemblyReference.cache

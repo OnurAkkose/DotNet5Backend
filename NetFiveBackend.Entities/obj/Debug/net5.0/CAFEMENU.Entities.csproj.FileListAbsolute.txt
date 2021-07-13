@@ -1,0 +1,15 @@
+D:\Base\Codebase\Projects\dotnet\Own\CafeMenu\CAFEMENU.Entities\bin\Debug\net5.0\CAFEMENU.Entities.deps.json
+D:\Base\Codebase\Projects\dotnet\Own\CafeMenu\CAFEMENU.Entities\bin\Debug\net5.0\CAFEMENU.Entities.dll
+D:\Base\Codebase\Projects\dotnet\Own\CafeMenu\CAFEMENU.Entities\bin\Debug\net5.0\ref\CAFEMENU.Entities.dll
+D:\Base\Codebase\Projects\dotnet\Own\CafeMenu\CAFEMENU.Entities\bin\Debug\net5.0\CAFEMENU.Entities.pdb
+D:\Base\Codebase\Projects\dotnet\Own\CafeMenu\CAFEMENU.Entities\bin\Debug\net5.0\CAFEMENU.Core.dll
+D:\Base\Codebase\Projects\dotnet\Own\CafeMenu\CAFEMENU.Entities\bin\Debug\net5.0\CAFEMENU.Core.pdb
+D:\Base\Codebase\Projects\dotnet\Own\CafeMenu\CAFEMENU.Entities\obj\Debug\net5.0\CAFEMENU.Entities.csprojAssemblyReference.cache
+D:\Base\Codebase\Projects\dotnet\Own\CafeMenu\CAFEMENU.Entities\obj\Debug\net5.0\CAFEMENU.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Base\Codebase\Projects\dotnet\Own\CafeMenu\CAFEMENU.Entities\obj\Debug\net5.0\CAFEMENU.Entities.AssemblyInfoInputs.cache
+D:\Base\Codebase\Projects\dotnet\Own\CafeMenu\CAFEMENU.Entities\obj\Debug\net5.0\CAFEMENU.Entities.AssemblyInfo.cs
+D:\Base\Codebase\Projects\dotnet\Own\CafeMenu\CAFEMENU.Entities\obj\Debug\net5.0\CAFEMENU.Entities.csproj.CoreCompileInputs.cache
+D:\Base\Codebase\Projects\dotnet\Own\CafeMenu\CAFEMENU.Entities\obj\Debug\net5.0\CAFEMENU.Entities.csproj.CopyComplete
+D:\Base\Codebase\Projects\dotnet\Own\CafeMenu\CAFEMENU.Entities\obj\Debug\net5.0\CAFEMENU.Entities.dll
+D:\Base\Codebase\Projects\dotnet\Own\CafeMenu\CAFEMENU.Entities\obj\Debug\net5.0\ref\CAFEMENU.Entities.dll
+D:\Base\Codebase\Projects\dotnet\Own\CafeMenu\CAFEMENU.Entities\obj\Debug\net5.0\CAFEMENU.Entities.pdb

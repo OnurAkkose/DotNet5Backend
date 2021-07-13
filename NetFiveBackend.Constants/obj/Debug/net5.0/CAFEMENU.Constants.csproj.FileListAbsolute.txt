@@ -1,0 +1,12 @@
+D:\Base\Codebase\Projects\dotnet\Own\CafeMenu\CAFEMENU.Constants\bin\Debug\net5.0\CAFEMENU.Constants.deps.json
+D:\Base\Codebase\Projects\dotnet\Own\CafeMenu\CAFEMENU.Constants\bin\Debug\net5.0\CAFEMENU.Constants.dll
+D:\Base\Codebase\Projects\dotnet\Own\CafeMenu\CAFEMENU.Constants\bin\Debug\net5.0\ref\CAFEMENU.Constants.dll
+D:\Base\Codebase\Projects\dotnet\Own\CafeMenu\CAFEMENU.Constants\bin\Debug\net5.0\CAFEMENU.Constants.pdb
+D:\Base\Codebase\Projects\dotnet\Own\CafeMenu\CAFEMENU.Constants\obj\Debug\net5.0\CAFEMENU.Constants.GeneratedMSBuildEditorConfig.editorconfig
+D:\Base\Codebase\Projects\dotnet\Own\CafeMenu\CAFEMENU.Constants\obj\Debug\net5.0\CAFEMENU.Constants.AssemblyInfoInputs.cache
+D:\Base\Codebase\Projects\dotnet\Own\CafeMenu\CAFEMENU.Constants\obj\Debug\net5.0\CAFEMENU.Constants.AssemblyInfo.cs
+D:\Base\Codebase\Projects\dotnet\Own\CafeMenu\CAFEMENU.Constants\obj\Debug\net5.0\CAFEMENU.Constants.csproj.CoreCompileInputs.cache
+D:\Base\Codebase\Projects\dotnet\Own\CafeMenu\CAFEMENU.Constants\obj\Debug\net5.0\CAFEMENU.Constants.dll
+D:\Base\Codebase\Projects\dotnet\Own\CafeMenu\CAFEMENU.Constants\obj\Debug\net5.0\ref\CAFEMENU.Constants.dll
+D:\Base\Codebase\Projects\dotnet\Own\CafeMenu\CAFEMENU.Constants\obj\Debug\net5.0\CAFEMENU.Constants.pdb
+D:\Base\Codebase\Projects\dotnet\Own\CAFEMENU\CAFEMENU.Constants\obj\Debug\net5.0\CAFEMENU.Constants.csprojAssemblyReference.cache

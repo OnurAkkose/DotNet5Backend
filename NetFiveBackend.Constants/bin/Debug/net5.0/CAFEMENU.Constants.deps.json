@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CAFEMENU.Constants/1.0.0": {
+        "runtime": {
+          "CAFEMENU.Constants.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CAFEMENU.Constants/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
